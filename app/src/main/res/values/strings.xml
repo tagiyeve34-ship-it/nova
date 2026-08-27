@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PanelNova</string>
+    <string name="login_title">PanelNova</string>
+    <string name="email">E-poçt</string>
+    <string name="password">Şifrə</string>
+    <string name="login">Daxil ol</string>
+    <string name="login_failed">Giriş məlumatları düzgün deyil</string>
+    <string name="network_error">Serverlə əlaqə qurulmadı</string>
+    <string name="no_children">Uşaq məlumatı tapılmadı</string>
+</resources>

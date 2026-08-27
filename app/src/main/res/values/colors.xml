@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text">#142033</color>
+    <color name="muted">#718096</color>
+    <color name="line">#E7ECF3</color>
+    <color name="teal">#0F9D94</color>
+    <color name="teal_dark">#08766F</color>
+    <color name="teal_soft">#E9F7F5</color>
+    <color name="blue">#356DF3</color>
+    <color name="blue_soft">#EEF3FF</color>
+    <color name="violet">#7B4EE4</color>
+    <color name="violet_soft">#F3EEFF</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_soft">#FFF5DE</color>
+    <color name="danger">#E45662</color>
+    <color name="danger_soft">#FDECEF</color>
+    <color name="success">#16A36A</color>
+    <color name="success_soft">#EAF8F1</color>
+    <color name="nav_inactive">#7A879A</color>
+</resources>
